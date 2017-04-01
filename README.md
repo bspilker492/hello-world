@@ -2,3 +2,8 @@
 First repository in github for demo purposes.
 This is the 1st file in github I created.  It was created around 17:30 on 3/31/2017.
 Here are some changes that I have made.  they bettere get merged in!!!!!!!!!!!!!!!!!!!
+Now Im making more changes.  It's 8:38 P.M.  Good luck to me.
+
+
+
+This is the last test of github i will make this evening.
